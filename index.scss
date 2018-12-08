@@ -1,0 +1,62 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  background: #f5f5f5;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#main {
+  background:#eee;
+}
+// header
+#title {
+  color: #333;
+  text-align:center;
+}footer
+h1 {
+  font-weight:bold;
+  font-size: 2em;
+}
+// main
+#img-div {
+  background-color:white;
+  margin-left:10px;
+  padding-right:10px;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+#image{
+  display:block;
+  max-width: 100%;
+  margin:0 auto;
+}
+#img-caption {
+  text-align:center;
+}
+#tribute-info {
+  display: block;
+  text-align:center;
+}
+#tribute-info ul {
+  width:38%;
+  margin:0 auto;
+  text-align: left;
+}
+#tribute-info ul li time {
+  font-weight:bold;
+}
+#tribute-info ul li{
+  margin-bottom:10px;
+
+}
+#tribute-info ul h3 {
+  margin-top: 50px;
+  text-align: left;
+}
+footer {
+  text-align:center;
+  font-weight: bold;
+}
